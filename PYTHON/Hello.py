@@ -1,1 +1,2 @@
-print("Hello world!")
+def pri():
+    return 1
